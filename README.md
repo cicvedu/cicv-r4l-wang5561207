@@ -1,4 +1,4 @@
-<center> <h1 id="index">第二阶段rust for linux课程作业</h1> </center>
+#<center>第二阶段rust for linux课程作业
 
 -----------------------------------------
 #<h2 id="1">[作业1](#index)</h2>
@@ -15,13 +15,15 @@
 <img src="./img/1/3.png" width="650">
 
 ------------------------------------
-#<h2 id="2">#[作业2](#index)</h2>
+
+#<h2 id="2">[作业2](#index)</h2>
 
 <p><h3>1、编译成内核模块，是在哪个文件中以哪条语句定义的？</h3></p>
 
 <p><h3>2、该模块位于独立的文件夹内，却能编译成Linux内核模块，这叫做out-of-tree module，请分析它是如何与内核代码产生联系的？</h3></p>
 
 <p><h3>实验内容：</h3></p>
+
 ```
 原因:旧版qemu包含slirp，而新版被移除了
 sudo apt-get install libslirp-dev
