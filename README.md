@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">第二阶段 rust for linux 课程作业</h1>
-  <h3 align="left">实验环境:wsl2+Ubuntu22.04</h3>
-  <h3 align="right">王伟</h3>
+  <h3 align="center">王伟</h3>
+  <h3 align="center">实验环境:wsl2+Ubuntu22.04</h3>
 </p>
 
 
