@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center"><h1>
-    第二阶段 rust for linux 课程作业</1>
+    第二阶段 rust for linux 课程作业</h1>
   <br>
   <h3 align="center">王伟</h3>
 </p>
