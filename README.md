@@ -1,6 +1,6 @@
 # <center id="index">第二阶段rust for linux课程作业</center>
 
-## <p>实验环境:wsl2+Ubuntu22.04</p>
+## 实验环境:wsl2+Ubuntu22.04
 
 ## <h2 id="1">[作业1](#index)</h2>
 <p><h3>实验内容:</h3></p>
