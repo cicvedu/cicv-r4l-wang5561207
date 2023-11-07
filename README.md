@@ -2,17 +2,18 @@
 
 ## 实验环境:wsl2+Ubuntu22.04
 
-## <h2 id="1">[作业1](#index)</h2>
-<p><h3>实验内容:</h3></p>
+## [作业1](#index)
 
-### <p>1、设置编译内核架构:</p>
+### 实验内容:
+
+#### 1、设置编译内核架构:
 <img src="./img/1/1.png" width="650">
 
-<p><h4>2、设置内核支持Rust:</h4></p>
-<p><img src="./img/1/2.png" width="650"></p>
+#### 2、设置内核支持Rust:
+<img src="./img/1/2.png" width="650">
 <img src="./img/1/2-1.png" width="650">
 
-<p><h4>3、进行内核编译:</h4></p>
+#### 3、进行内核编译:
 <img src="./img/1/3.png" width="650">
 
 
