@@ -1,8 +1,8 @@
 <p align="center">
-  <h3 align="center">王伟</h3>
-  <p align="center">
-    第二阶段 rust for linux 课程作业
+  <p align="center"><h1>
+    第二阶段 rust for linux 课程作业</1>
   <br>
+  <h3 align="center">王伟</h3>
 </p>
 
 ### 实验环境:wsl2+Ubuntu22.04
