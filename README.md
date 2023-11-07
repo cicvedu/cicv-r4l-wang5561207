@@ -1,4 +1,4 @@
-#<center>第二阶段rust for linux课程作业
+<center><h1>第二阶段rust for linux课程作业</h1></center>
 
 -----------------------------------------
 #<h2 id="1">[作业1](#index)</h2>
